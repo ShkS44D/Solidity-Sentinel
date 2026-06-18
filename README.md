@@ -119,5 +119,6 @@ Developed by **Muhammad Saad Ahmed**
 
 * **Role:** Cybersecurity & Web3 Security Researcher
 * **Focus:** Offensive Security, Threat Detection, & Smart Contract Auditing
+* **LinkedIn:** [S44D](https://www.linkedin.com/in/shsaadahmed/)
 
 
